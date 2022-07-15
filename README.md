@@ -1,4 +1,4 @@
-# FirstMaPiRep
+# First
 #1 project
 
 // SPDX-License-Identifier: Unlicensed
